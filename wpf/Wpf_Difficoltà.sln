@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Difficoltà", "Wpf_Difficoltà\Wpf_Difficoltà.csproj", "{658A62A3-400E-47F1-BA24-671E3C6FABC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658A62A3-400E-47F1-BA24-671E3C6FABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658A62A3-400E-47F1-BA24-671E3C6FABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658A62A3-400E-47F1-BA24-671E3C6FABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658A62A3-400E-47F1-BA24-671E3C6FABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BDD388-F9E6-46C1-9125-2BC686319D72}
+	EndGlobalSection
+EndGlobal
